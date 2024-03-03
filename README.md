@@ -28,7 +28,7 @@
 
 ## Heroku Deploy!
 <h3 align="center">Click The Button</h3>
-<a href="https://heroku.com/deploy?template=https://github.com/yushafahad17/pyrogram"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/yushafahadd17/pyrobot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
 
 
